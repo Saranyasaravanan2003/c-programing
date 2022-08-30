@@ -14,8 +14,8 @@ int rev(int a)
 int main()
 {
 	int n;
-	cout<<"\nenter the number to reverse : ";
+	cout<<"nenter the number to reverse:";
 	cin>>n;
-	cout<<”\nreversed number : ”<<rev(n);
+	cout<<"nreversed number:”<<rev(n);
 	return 0;
 }
